@@ -1,0 +1,26 @@
+{
+  "name": "dadcave",
+  "version": "0.0.1",
+  "description": "A forum for dad advice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "dadcave",
+    "dad",
+    "dad",
+    "advice"
+  ],
+  "author": "Jonathan Go",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "kue": "^0.10.5",
+    "lodash": "^4.11.0",
+    "mongoose": "^4.4.12",
+    "morgan": "^1.7.0",
+    "q": "^1.4.1",
+    "socket.io": "^1.4.5"
+  }
+}
